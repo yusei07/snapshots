@@ -7,5 +7,5 @@
 A grid structured image gallery, contains my type of aesthetic.
 
 - Made using TalwindCSS.
-- Pictures are all obtained from [@Pinterest](https;//pinterest.com)
+- Pictures are all obtained from [@Pinterest](https;//pinterest.com).
 - Creds to [@Codrops](https://github.com/codrops) for the layout design.
